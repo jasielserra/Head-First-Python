@@ -6,11 +6,6 @@ Type "copyright", "credits" or "license()" for more information.
 >>> import os
 >>> os.getcwd()
 '/home/serra'
->>> os.ch
-Traceback (most recent call last):
-  File "<pyshell#7>", line 1, in <module>
-    os.ch
-AttributeError: 'module' object has no attribute 'ch'
 >>> os.chdir('/home/serra/Documentos/hfpy_code/chapter3')
 >>> os.getcwd()
 '/home/serra/Documentos/hfpy_code/chapter3'
